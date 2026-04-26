@@ -1,0 +1,10 @@
+.operax/
+.gocache/
+.gomodcache/
+
+# binaries
+operax
+*.exe
+
+# editor/OS
+.DS_Store
